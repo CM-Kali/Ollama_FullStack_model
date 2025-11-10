@@ -1,0 +1,1001 @@
+review_id,review_text,rating,sentiment
+1,"The toppings were decent, but crust was average.",3,neutral
+2,"Great flavor, but a bit pricey for the portion size.",3,neutral
+3,"The pizza was average, nothing special.",3,neutral
+4,The toppings were missing on my pizza.,2,negative
+5,"Completely unsatisfied, won't recommend.",1,negative
+6,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+7,"The toppings were decent, but crust was average.",3,neutral
+8,Worst pizza experience ever.,2,negative
+9,"Crust was hard and burnt, poor quality.",2,negative
+10,"Delivery was fast, pizza was hot and tasty.",5,positive
+11,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+12,"Excellent thin crust pizza, best in town!",5,positive
+13,The pizza was tasteless and bland.,1,negative
+14,"Terrible experience, the pizza was burnt and soggy.",2,negative
+15,"Terrible experience, the pizza was burnt and soggy.",1,negative
+16,"Service was rude, pizza arrived late.",1,negative
+17,The best pizza I've had in a long time.,4,positive
+18,"Pizza was fine, but not memorable.",3,neutral
+19,"Mediocre pizza, toppings were not fresh.",1,negative
+20,"The pizza was average, nothing special.",3,neutral
+21,"Excellent thin crust pizza, best in town!",5,positive
+22,Perfectly cooked pizza with fresh ingredients.,4,positive
+23,"The pizza was average, nothing special.",3,neutral
+24,"Great taste, excellent service.",4,positive
+25,"Crust was hard and burnt, poor quality.",2,negative
+26,"The toppings were decent, but crust was average.",3,neutral
+27,The pizza was tasteless and bland.,1,negative
+28,"The pizza was average, nothing special.",3,neutral
+29,"Amazing flavor, highly recommend!",5,positive
+30,The pepperoni pizza had too much grease.,3,neutral
+31,"Not happy with the delivery, pizza arrived cold.",1,negative
+32,"Service was rude, pizza arrived late.",1,negative
+33,"I loved the cheese and toppings, will order again.",5,positive
+34,"Amazing flavor, highly recommend!",5,positive
+35,"Not happy with the delivery, pizza arrived cold.",2,negative
+36,"Service was rude, pizza arrived late.",2,negative
+37,Worst pizza experience ever.,2,negative
+38,"Mediocre pizza, toppings were not fresh.",2,negative
+39,The toppings were missing on my pizza.,2,negative
+40,The best pizza I've had in a long time.,4,positive
+41,"Completely unsatisfied, won't recommend.",2,negative
+42,"Excellent thin crust pizza, best in town!",4,positive
+43,"Mediocre pizza, toppings were not fresh.",1,negative
+44,"The dough was undercooked, but overall okay.",3,neutral
+45,"Service was slow, but the pizza was okay.",3,neutral
+46,"I will never order from here again, very disappointing.",1,negative
+47,The pizza was tasteless and bland.,1,negative
+48,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+49,"Service was rude, pizza arrived late.",2,negative
+50,"Completely unsatisfied, won't recommend.",2,negative
+51,The pizza was tasteless and bland.,2,negative
+52,The best pizza I've had in a long time.,4,positive
+53,"Amazing flavor, highly recommend!",4,positive
+54,The pizza was delicious and the crust was perfect!,5,positive
+55,"Excellent thin crust pizza, best in town!",5,positive
+56,"The dough was undercooked, but overall okay.",3,neutral
+57,The toppings were missing on my pizza.,2,negative
+58,The pizza was delicious and the crust was perfect!,4,positive
+59,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+60,The pepperoni pizza had too much grease.,3,neutral
+61,"Service was rude, pizza arrived late.",1,negative
+62,"Mediocre pizza, toppings were not fresh.",1,negative
+63,"Service was slow, but the pizza was okay.",3,neutral
+64,Perfectly cooked pizza with fresh ingredients.,4,positive
+65,"Service was rude, pizza arrived late.",1,negative
+66,"Pizza was fine, but not memorable.",3,neutral
+67,The pepperoni pizza had too much grease.,3,neutral
+68,"Crust was hard and burnt, poor quality.",1,negative
+69,"Terrible experience, the pizza was burnt and soggy.",1,negative
+70,"The pizza was average, nothing special.",3,neutral
+71,Perfectly cooked pizza with fresh ingredients.,5,positive
+72,"Average experience, nothing stood out.",3,neutral
+73,"Delivery was okay, pizza temperature acceptable.",3,neutral
+74,"Mediocre pizza, toppings were not fresh.",2,negative
+75,"Mediocre pizza, toppings were not fresh.",2,negative
+76,"Average experience, nothing stood out.",3,neutral
+77,"I will never order from here again, very disappointing.",2,negative
+78,"Amazing flavor, highly recommend!",4,positive
+79,The pizza was tasteless and bland.,1,negative
+80,"Pizza was fine, but not memorable.",3,neutral
+81,The pepperoni pizza had too much grease.,3,neutral
+82,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+83,"Average experience, nothing stood out.",3,neutral
+84,"Delivery was okay, pizza temperature acceptable.",3,neutral
+85,The pizza was tasteless and bland.,1,negative
+86,"Excellent thin crust pizza, best in town!",4,positive
+87,"The toppings were decent, but crust was average.",3,neutral
+88,"I loved the cheese and toppings, will order again.",5,positive
+89,"Not happy with the delivery, pizza arrived cold.",1,negative
+90,"Delivery was okay, pizza temperature acceptable.",3,neutral
+91,"The dough was undercooked, but overall okay.",3,neutral
+92,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+93,"Terrible experience, the pizza was burnt and soggy.",1,negative
+94,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+95,Perfectly cooked pizza with fresh ingredients.,5,positive
+96,"The toppings were decent, but crust was average.",3,neutral
+97,"Service was slow, but the pizza was okay.",3,neutral
+98,"Great taste, excellent service.",5,positive
+99,The best pizza I've had in a long time.,4,positive
+100,"Average experience, nothing stood out.",3,neutral
+101,"Completely unsatisfied, won't recommend.",1,negative
+102,"Terrible experience, the pizza was burnt and soggy.",1,negative
+103,"The toppings were decent, but crust was average.",3,neutral
+104,"Service was rude, pizza arrived late.",1,negative
+105,"The dough was undercooked, but overall okay.",3,neutral
+106,"Terrible experience, the pizza was burnt and soggy.",2,negative
+107,"Service was slow, but the pizza was okay.",3,neutral
+108,"Amazing flavor, highly recommend!",4,positive
+109,"Pizza was fine, but not memorable.",3,neutral
+110,"Great flavor, but a bit pricey for the portion size.",3,neutral
+111,"The pizza was average, nothing special.",3,neutral
+112,"Service was rude, pizza arrived late.",2,negative
+113,The pizza was delicious and the crust was perfect!,4,positive
+114,The pizza was delicious and the crust was perfect!,5,positive
+115,"Average experience, nothing stood out.",3,neutral
+116,"Pizza was fine, but not memorable.",3,neutral
+117,"Amazing flavor, highly recommend!",5,positive
+118,"Great flavor, but a bit pricey for the portion size.",3,neutral
+119,Perfectly cooked pizza with fresh ingredients.,4,positive
+120,"The dough was undercooked, but overall okay.",3,neutral
+121,"Delivery was okay, pizza temperature acceptable.",3,neutral
+122,"The toppings were decent, but crust was average.",3,neutral
+123,"Great taste, excellent service.",5,positive
+124,"Excellent thin crust pizza, best in town!",5,positive
+125,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+126,"Not happy with the delivery, pizza arrived cold.",2,negative
+127,"The pizza was average, nothing special.",3,neutral
+128,"The dough was undercooked, but overall okay.",3,neutral
+129,"Amazing flavor, highly recommend!",4,positive
+130,"Delivery was okay, pizza temperature acceptable.",3,neutral
+131,"The toppings were decent, but crust was average.",3,neutral
+132,"Delivery was fast, pizza was hot and tasty.",4,positive
+133,"Completely unsatisfied, won't recommend.",2,negative
+134,"The pizza was average, nothing special.",3,neutral
+135,The best pizza I've had in a long time.,4,positive
+136,"Excellent thin crust pizza, best in town!",5,positive
+137,"The pizza was average, nothing special.",3,neutral
+138,Worst pizza experience ever.,1,negative
+139,"The pizza was average, nothing special.",3,neutral
+140,"Not bad, but I've had better pizzas.",3,neutral
+141,"Delivery was okay, pizza temperature acceptable.",3,neutral
+142,"Mediocre pizza, toppings were not fresh.",1,negative
+143,"Service was rude, pizza arrived late.",1,negative
+144,"I loved the cheese and toppings, will order again.",5,positive
+145,Perfectly cooked pizza with fresh ingredients.,5,positive
+146,"Service was rude, pizza arrived late.",2,negative
+147,Worst pizza experience ever.,1,negative
+148,"Great taste, excellent service.",4,positive
+149,The pepperoni pizza had too much grease.,3,neutral
+150,"Great flavor, but a bit pricey for the portion size.",3,neutral
+151,"Service was rude, pizza arrived late.",2,negative
+152,"Excellent thin crust pizza, best in town!",5,positive
+153,Perfectly cooked pizza with fresh ingredients.,4,positive
+154,"Mediocre pizza, toppings were not fresh.",1,negative
+155,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+156,"Excellent thin crust pizza, best in town!",5,positive
+157,"Crust was hard and burnt, poor quality.",1,negative
+158,The pizza was tasteless and bland.,1,negative
+159,The pizza was tasteless and bland.,1,negative
+160,"Terrible experience, the pizza was burnt and soggy.",1,negative
+161,The toppings were missing on my pizza.,2,negative
+162,"Great flavor, but a bit pricey for the portion size.",3,neutral
+163,The pepperoni pizza had too much grease.,3,neutral
+164,The best pizza I've had in a long time.,4,positive
+165,"Amazing flavor, highly recommend!",5,positive
+166,The toppings were missing on my pizza.,2,negative
+167,"Service was slow, but the pizza was okay.",3,neutral
+168,"Delivery was fast, pizza was hot and tasty.",4,positive
+169,"Average experience, nothing stood out.",3,neutral
+170,Worst pizza experience ever.,1,negative
+171,"Delivery was okay, pizza temperature acceptable.",3,neutral
+172,"Amazing flavor, highly recommend!",4,positive
+173,"Great taste, excellent service.",5,positive
+174,"Delivery was fast, pizza was hot and tasty.",4,positive
+175,Perfectly cooked pizza with fresh ingredients.,4,positive
+176,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+177,The toppings were missing on my pizza.,1,negative
+178,"The pizza was average, nothing special.",3,neutral
+179,"I will never order from here again, very disappointing.",2,negative
+180,The pizza was tasteless and bland.,1,negative
+181,"Service was rude, pizza arrived late.",2,negative
+182,"Service was rude, pizza arrived late.",2,negative
+183,"Excellent thin crust pizza, best in town!",4,positive
+184,Perfectly cooked pizza with fresh ingredients.,5,positive
+185,"Great taste, excellent service.",5,positive
+186,"Delivery was fast, pizza was hot and tasty.",4,positive
+187,Perfectly cooked pizza with fresh ingredients.,4,positive
+188,"Great flavor, but a bit pricey for the portion size.",3,neutral
+189,"Amazing flavor, highly recommend!",4,positive
+190,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+191,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+192,"Service was rude, pizza arrived late.",2,negative
+193,The pizza was delicious and the crust was perfect!,4,positive
+194,"Not happy with the delivery, pizza arrived cold.",1,negative
+195,"I will never order from here again, very disappointing.",1,negative
+196,The toppings were missing on my pizza.,1,negative
+197,Perfectly cooked pizza with fresh ingredients.,5,positive
+198,"Service was rude, pizza arrived late.",1,negative
+199,"Great taste, excellent service.",5,positive
+200,The pepperoni pizza had too much grease.,3,neutral
+201,"Great flavor, but a bit pricey for the portion size.",3,neutral
+202,"I will never order from here again, very disappointing.",1,negative
+203,"I loved the cheese and toppings, will order again.",4,positive
+204,"Not happy with the delivery, pizza arrived cold.",1,negative
+205,"Excellent thin crust pizza, best in town!",5,positive
+206,The pizza was delicious and the crust was perfect!,5,positive
+207,"Not bad, but I've had better pizzas.",3,neutral
+208,"The dough was undercooked, but overall okay.",3,neutral
+209,"Great taste, excellent service.",4,positive
+210,The pizza was delicious and the crust was perfect!,5,positive
+211,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+212,"Great taste, excellent service.",5,positive
+213,The pepperoni pizza had too much grease.,3,neutral
+214,"I will never order from here again, very disappointing.",2,negative
+215,"Mediocre pizza, toppings were not fresh.",2,negative
+216,"Excellent thin crust pizza, best in town!",4,positive
+217,"Service was rude, pizza arrived late.",2,negative
+218,"The pizza was average, nothing special.",3,neutral
+219,Worst pizza experience ever.,2,negative
+220,"Great flavor, but a bit pricey for the portion size.",3,neutral
+221,The toppings were missing on my pizza.,1,negative
+222,"The pizza was average, nothing special.",3,neutral
+223,"Mediocre pizza, toppings were not fresh.",2,negative
+224,"Completely unsatisfied, won't recommend.",2,negative
+225,The pepperoni pizza had too much grease.,3,neutral
+226,"Mediocre pizza, toppings were not fresh.",1,negative
+227,"I loved the cheese and toppings, will order again.",4,positive
+228,"Not bad, but I've had better pizzas.",3,neutral
+229,Perfectly cooked pizza with fresh ingredients.,4,positive
+230,"Amazing flavor, highly recommend!",5,positive
+231,"Service was slow, but the pizza was okay.",3,neutral
+232,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+233,The pizza was delicious and the crust was perfect!,5,positive
+234,"Delivery was fast, pizza was hot and tasty.",4,positive
+235,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+236,Perfectly cooked pizza with fresh ingredients.,5,positive
+237,"I loved the cheese and toppings, will order again.",5,positive
+238,"Pizza was fine, but not memorable.",3,neutral
+239,"Excellent thin crust pizza, best in town!",4,positive
+240,"Mediocre pizza, toppings were not fresh.",1,negative
+241,Perfectly cooked pizza with fresh ingredients.,5,positive
+242,"Service was rude, pizza arrived late.",2,negative
+243,Worst pizza experience ever.,1,negative
+244,"The toppings were decent, but crust was average.",3,neutral
+245,"Completely unsatisfied, won't recommend.",1,negative
+246,"Completely unsatisfied, won't recommend.",2,negative
+247,The best pizza I've had in a long time.,4,positive
+248,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+249,"Great flavor, but a bit pricey for the portion size.",3,neutral
+250,"I loved the cheese and toppings, will order again.",4,positive
+251,"The dough was undercooked, but overall okay.",3,neutral
+252,The pepperoni pizza had too much grease.,3,neutral
+253,"Delivery was fast, pizza was hot and tasty.",4,positive
+254,"Excellent thin crust pizza, best in town!",5,positive
+255,"The pizza was average, nothing special.",3,neutral
+256,The best pizza I've had in a long time.,5,positive
+257,"The dough was undercooked, but overall okay.",3,neutral
+258,"Delivery was okay, pizza temperature acceptable.",3,neutral
+259,The best pizza I've had in a long time.,4,positive
+260,"Pizza was fine, but not memorable.",3,neutral
+261,The pizza was tasteless and bland.,2,negative
+262,"Amazing flavor, highly recommend!",4,positive
+263,"Completely unsatisfied, won't recommend.",2,negative
+264,The toppings were missing on my pizza.,1,negative
+265,"Great taste, excellent service.",5,positive
+266,"Great flavor, but a bit pricey for the portion size.",3,neutral
+267,"Amazing flavor, highly recommend!",5,positive
+268,The best pizza I've had in a long time.,5,positive
+269,"Completely unsatisfied, won't recommend.",1,negative
+270,"Pizza was fine, but not memorable.",3,neutral
+271,"Terrible experience, the pizza was burnt and soggy.",1,negative
+272,"Amazing flavor, highly recommend!",4,positive
+273,"Service was rude, pizza arrived late.",1,negative
+274,The pizza was tasteless and bland.,2,negative
+275,"The dough was undercooked, but overall okay.",3,neutral
+276,"Excellent thin crust pizza, best in town!",4,positive
+277,"Amazing flavor, highly recommend!",5,positive
+278,"The dough was undercooked, but overall okay.",3,neutral
+279,"Service was slow, but the pizza was okay.",3,neutral
+280,"I loved the cheese and toppings, will order again.",5,positive
+281,"Mediocre pizza, toppings were not fresh.",2,negative
+282,"Delivery was fast, pizza was hot and tasty.",4,positive
+283,"The dough was undercooked, but overall okay.",3,neutral
+284,"Terrible experience, the pizza was burnt and soggy.",2,negative
+285,"Mediocre pizza, toppings were not fresh.",1,negative
+286,"Completely unsatisfied, won't recommend.",2,negative
+287,The pizza was tasteless and bland.,1,negative
+288,"Average experience, nothing stood out.",3,neutral
+289,"Crust was hard and burnt, poor quality.",2,negative
+290,"The pizza was average, nothing special.",3,neutral
+291,The best pizza I've had in a long time.,4,positive
+292,"Terrible experience, the pizza was burnt and soggy.",1,negative
+293,"Amazing flavor, highly recommend!",5,positive
+294,"Terrible experience, the pizza was burnt and soggy.",2,negative
+295,"Crust was hard and burnt, poor quality.",2,negative
+296,Worst pizza experience ever.,2,negative
+297,"Excellent thin crust pizza, best in town!",5,positive
+298,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+299,"Mediocre pizza, toppings were not fresh.",2,negative
+300,"Delivery was okay, pizza temperature acceptable.",3,neutral
+301,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+302,"I will never order from here again, very disappointing.",1,negative
+303,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+304,Perfectly cooked pizza with fresh ingredients.,4,positive
+305,"Service was rude, pizza arrived late.",1,negative
+306,The toppings were missing on my pizza.,1,negative
+307,Perfectly cooked pizza with fresh ingredients.,5,positive
+308,"Great taste, excellent service.",4,positive
+309,Worst pizza experience ever.,2,negative
+310,"Amazing flavor, highly recommend!",5,positive
+311,"Delivery was okay, pizza temperature acceptable.",3,neutral
+312,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+313,The best pizza I've had in a long time.,5,positive
+314,The pepperoni pizza had too much grease.,3,neutral
+315,The pizza was tasteless and bland.,2,negative
+316,"I loved the cheese and toppings, will order again.",5,positive
+317,The toppings were missing on my pizza.,2,negative
+318,The pizza was tasteless and bland.,1,negative
+319,"Service was rude, pizza arrived late.",1,negative
+320,The pizza was delicious and the crust was perfect!,4,positive
+321,"Completely unsatisfied, won't recommend.",2,negative
+322,"The pizza was average, nothing special.",3,neutral
+323,"Pizza was fine, but not memorable.",3,neutral
+324,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+325,"Crust was hard and burnt, poor quality.",2,negative
+326,"Amazing flavor, highly recommend!",5,positive
+327,"Great taste, excellent service.",5,positive
+328,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+329,"Delivery was okay, pizza temperature acceptable.",3,neutral
+330,The best pizza I've had in a long time.,5,positive
+331,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+332,The pepperoni pizza had too much grease.,3,neutral
+333,"Delivery was okay, pizza temperature acceptable.",3,neutral
+334,Perfectly cooked pizza with fresh ingredients.,4,positive
+335,"Average experience, nothing stood out.",3,neutral
+336,"I loved the cheese and toppings, will order again.",5,positive
+337,"Service was rude, pizza arrived late.",2,negative
+338,"Mediocre pizza, toppings were not fresh.",1,negative
+339,"Delivery was fast, pizza was hot and tasty.",4,positive
+340,The pizza was delicious and the crust was perfect!,5,positive
+341,"Great flavor, but a bit pricey for the portion size.",3,neutral
+342,"Completely unsatisfied, won't recommend.",2,negative
+343,Worst pizza experience ever.,1,negative
+344,"The toppings were decent, but crust was average.",3,neutral
+345,The pizza was delicious and the crust was perfect!,5,positive
+346,"The toppings were decent, but crust was average.",3,neutral
+347,Worst pizza experience ever.,1,negative
+348,"Mediocre pizza, toppings were not fresh.",1,negative
+349,The best pizza I've had in a long time.,4,positive
+350,The best pizza I've had in a long time.,4,positive
+351,"Great taste, excellent service.",4,positive
+352,"Excellent thin crust pizza, best in town!",4,positive
+353,"Average experience, nothing stood out.",3,neutral
+354,"I loved the cheese and toppings, will order again.",5,positive
+355,"Excellent thin crust pizza, best in town!",4,positive
+356,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+357,"The pizza was average, nothing special.",3,neutral
+358,"The pizza was average, nothing special.",3,neutral
+359,"Completely unsatisfied, won't recommend.",1,negative
+360,"Delivery was fast, pizza was hot and tasty.",5,positive
+361,The best pizza I've had in a long time.,4,positive
+362,"Mediocre pizza, toppings were not fresh.",2,negative
+363,"Pizza was fine, but not memorable.",3,neutral
+364,"Delivery was okay, pizza temperature acceptable.",3,neutral
+365,"Not happy with the delivery, pizza arrived cold.",2,negative
+366,"Crust was hard and burnt, poor quality.",1,negative
+367,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+368,The pizza was tasteless and bland.,1,negative
+369,"Average experience, nothing stood out.",3,neutral
+370,"Great flavor, but a bit pricey for the portion size.",3,neutral
+371,The pizza was delicious and the crust was perfect!,5,positive
+372,"Completely unsatisfied, won't recommend.",2,negative
+373,The best pizza I've had in a long time.,5,positive
+374,"Great taste, excellent service.",5,positive
+375,"Excellent thin crust pizza, best in town!",4,positive
+376,"The toppings were decent, but crust was average.",3,neutral
+377,"Delivery was fast, pizza was hot and tasty.",4,positive
+378,The pepperoni pizza had too much grease.,3,neutral
+379,"The pizza was average, nothing special.",3,neutral
+380,The pepperoni pizza had too much grease.,3,neutral
+381,"I loved the cheese and toppings, will order again.",5,positive
+382,"Service was rude, pizza arrived late.",2,negative
+383,"Service was slow, but the pizza was okay.",3,neutral
+384,"Service was rude, pizza arrived late.",2,negative
+385,"Terrible experience, the pizza was burnt and soggy.",2,negative
+386,"The toppings were decent, but crust was average.",3,neutral
+387,"Excellent thin crust pizza, best in town!",5,positive
+388,"I loved the cheese and toppings, will order again.",5,positive
+389,"Pizza was fine, but not memorable.",3,neutral
+390,"The toppings were decent, but crust was average.",3,neutral
+391,"Great taste, excellent service.",5,positive
+392,"Amazing flavor, highly recommend!",5,positive
+393,Perfectly cooked pizza with fresh ingredients.,4,positive
+394,"Delivery was fast, pizza was hot and tasty.",5,positive
+395,"Great flavor, but a bit pricey for the portion size.",3,neutral
+396,"Mediocre pizza, toppings were not fresh.",1,negative
+397,"Pizza was fine, but not memorable.",3,neutral
+398,The pepperoni pizza had too much grease.,3,neutral
+399,The pizza was delicious and the crust was perfect!,5,positive
+400,"Great flavor, but a bit pricey for the portion size.",3,neutral
+401,"Great flavor, but a bit pricey for the portion size.",3,neutral
+402,"Service was slow, but the pizza was okay.",3,neutral
+403,"Service was rude, pizza arrived late.",1,negative
+404,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+405,Perfectly cooked pizza with fresh ingredients.,4,positive
+406,"Delivery was fast, pizza was hot and tasty.",5,positive
+407,"I will never order from here again, very disappointing.",2,negative
+408,"Service was slow, but the pizza was okay.",3,neutral
+409,"Completely unsatisfied, won't recommend.",1,negative
+410,"The pizza was average, nothing special.",3,neutral
+411,The best pizza I've had in a long time.,4,positive
+412,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+413,"Terrible experience, the pizza was burnt and soggy.",2,negative
+414,"Average experience, nothing stood out.",3,neutral
+415,"The pizza was average, nothing special.",3,neutral
+416,"Crust was hard and burnt, poor quality.",1,negative
+417,The toppings were missing on my pizza.,1,negative
+418,The toppings were missing on my pizza.,1,negative
+419,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+420,Worst pizza experience ever.,2,negative
+421,"Completely unsatisfied, won't recommend.",1,negative
+422,"Great flavor, but a bit pricey for the portion size.",3,neutral
+423,The best pizza I've had in a long time.,4,positive
+424,"Mediocre pizza, toppings were not fresh.",1,negative
+425,The best pizza I've had in a long time.,4,positive
+426,"The toppings were decent, but crust was average.",3,neutral
+427,"Service was slow, but the pizza was okay.",3,neutral
+428,"The toppings were decent, but crust was average.",3,neutral
+429,"Delivery was fast, pizza was hot and tasty.",5,positive
+430,"Amazing flavor, highly recommend!",4,positive
+431,"Pizza was fine, but not memorable.",3,neutral
+432,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+433,"Crust was hard and burnt, poor quality.",2,negative
+434,"Mediocre pizza, toppings were not fresh.",1,negative
+435,"The toppings were decent, but crust was average.",3,neutral
+436,The pepperoni pizza had too much grease.,3,neutral
+437,"Great flavor, but a bit pricey for the portion size.",3,neutral
+438,"Average experience, nothing stood out.",3,neutral
+439,Perfectly cooked pizza with fresh ingredients.,4,positive
+440,The pizza was delicious and the crust was perfect!,5,positive
+441,"Amazing flavor, highly recommend!",4,positive
+442,"Terrible experience, the pizza was burnt and soggy.",1,negative
+443,"Delivery was fast, pizza was hot and tasty.",4,positive
+444,"The pizza was average, nothing special.",3,neutral
+445,"Excellent thin crust pizza, best in town!",4,positive
+446,"Great flavor, but a bit pricey for the portion size.",3,neutral
+447,Perfectly cooked pizza with fresh ingredients.,4,positive
+448,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+449,The pizza was delicious and the crust was perfect!,4,positive
+450,"Delivery was fast, pizza was hot and tasty.",5,positive
+451,Perfectly cooked pizza with fresh ingredients.,5,positive
+452,"Pizza was fine, but not memorable.",3,neutral
+453,"Amazing flavor, highly recommend!",5,positive
+454,"The toppings were decent, but crust was average.",3,neutral
+455,"Crust was hard and burnt, poor quality.",2,negative
+456,"Delivery was okay, pizza temperature acceptable.",3,neutral
+457,"The pizza was average, nothing special.",3,neutral
+458,"Amazing flavor, highly recommend!",5,positive
+459,"Average experience, nothing stood out.",3,neutral
+460,"Pizza was fine, but not memorable.",3,neutral
+461,"Pizza was fine, but not memorable.",3,neutral
+462,"Average experience, nothing stood out.",3,neutral
+463,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+464,"Not happy with the delivery, pizza arrived cold.",1,negative
+465,"Service was slow, but the pizza was okay.",3,neutral
+466,"Delivery was okay, pizza temperature acceptable.",3,neutral
+467,"Delivery was fast, pizza was hot and tasty.",4,positive
+468,"Average experience, nothing stood out.",3,neutral
+469,"Service was slow, but the pizza was okay.",3,neutral
+470,"I loved the cheese and toppings, will order again.",4,positive
+471,"Completely unsatisfied, won't recommend.",1,negative
+472,"Average experience, nothing stood out.",3,neutral
+473,"Terrible experience, the pizza was burnt and soggy.",2,negative
+474,The pizza was tasteless and bland.,2,negative
+475,"Amazing flavor, highly recommend!",4,positive
+476,"The toppings were decent, but crust was average.",3,neutral
+477,"Mediocre pizza, toppings were not fresh.",2,negative
+478,"The toppings were decent, but crust was average.",3,neutral
+479,The pizza was delicious and the crust was perfect!,5,positive
+480,"Service was slow, but the pizza was okay.",3,neutral
+481,"Amazing flavor, highly recommend!",4,positive
+482,"The pizza was average, nothing special.",3,neutral
+483,"Delivery was fast, pizza was hot and tasty.",4,positive
+484,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+485,The toppings were missing on my pizza.,2,negative
+486,Worst pizza experience ever.,2,negative
+487,"Terrible experience, the pizza was burnt and soggy.",1,negative
+488,"Pizza was fine, but not memorable.",3,neutral
+489,"Excellent thin crust pizza, best in town!",5,positive
+490,The toppings were missing on my pizza.,2,negative
+491,"The dough was undercooked, but overall okay.",3,neutral
+492,"Delivery was fast, pizza was hot and tasty.",5,positive
+493,"Service was slow, but the pizza was okay.",3,neutral
+494,The toppings were missing on my pizza.,2,negative
+495,"Crust was hard and burnt, poor quality.",2,negative
+496,"Mediocre pizza, toppings were not fresh.",2,negative
+497,The best pizza I've had in a long time.,4,positive
+498,"The dough was undercooked, but overall okay.",3,neutral
+499,"Not happy with the delivery, pizza arrived cold.",2,negative
+500,"Average experience, nothing stood out.",3,neutral
+501,The pizza was tasteless and bland.,2,negative
+502,"Excellent thin crust pizza, best in town!",5,positive
+503,"Amazing flavor, highly recommend!",5,positive
+504,"Excellent thin crust pizza, best in town!",5,positive
+505,"Excellent thin crust pizza, best in town!",5,positive
+506,"The dough was undercooked, but overall okay.",3,neutral
+507,"Delivery was fast, pizza was hot and tasty.",4,positive
+508,"Delivery was fast, pizza was hot and tasty.",4,positive
+509,The best pizza I've had in a long time.,5,positive
+510,"Service was slow, but the pizza was okay.",3,neutral
+511,"Crust was hard and burnt, poor quality.",2,negative
+512,"Crust was hard and burnt, poor quality.",1,negative
+513,Worst pizza experience ever.,1,negative
+514,"Amazing flavor, highly recommend!",4,positive
+515,"Mediocre pizza, toppings were not fresh.",1,negative
+516,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+517,"The pizza was average, nothing special.",3,neutral
+518,"Service was slow, but the pizza was okay.",3,neutral
+519,"Delivery was fast, pizza was hot and tasty.",5,positive
+520,"I loved the cheese and toppings, will order again.",4,positive
+521,The pizza was tasteless and bland.,1,negative
+522,"The dough was undercooked, but overall okay.",3,neutral
+523,"Crust was hard and burnt, poor quality.",1,negative
+524,The pizza was tasteless and bland.,1,negative
+525,"I loved the cheese and toppings, will order again.",5,positive
+526,"Mediocre pizza, toppings were not fresh.",1,negative
+527,"Average experience, nothing stood out.",3,neutral
+528,"Terrible experience, the pizza was burnt and soggy.",1,negative
+529,"Not happy with the delivery, pizza arrived cold.",1,negative
+530,"Service was rude, pizza arrived late.",1,negative
+531,The best pizza I've had in a long time.,4,positive
+532,"Completely unsatisfied, won't recommend.",2,negative
+533,The best pizza I've had in a long time.,4,positive
+534,"Great taste, excellent service.",5,positive
+535,"Great taste, excellent service.",5,positive
+536,"Mediocre pizza, toppings were not fresh.",2,negative
+537,The pizza was delicious and the crust was perfect!,4,positive
+538,"Terrible experience, the pizza was burnt and soggy.",1,negative
+539,The best pizza I've had in a long time.,5,positive
+540,Perfectly cooked pizza with fresh ingredients.,4,positive
+541,"Completely unsatisfied, won't recommend.",2,negative
+542,"Average experience, nothing stood out.",3,neutral
+543,"Mediocre pizza, toppings were not fresh.",2,negative
+544,"Not bad, but I've had better pizzas.",3,neutral
+545,"Pizza was fine, but not memorable.",3,neutral
+546,"Crust was hard and burnt, poor quality.",1,negative
+547,"I loved the cheese and toppings, will order again.",4,positive
+548,"Service was rude, pizza arrived late.",1,negative
+549,Perfectly cooked pizza with fresh ingredients.,4,positive
+550,Perfectly cooked pizza with fresh ingredients.,5,positive
+551,"The pizza was average, nothing special.",3,neutral
+552,"Terrible experience, the pizza was burnt and soggy.",2,negative
+553,The toppings were missing on my pizza.,2,negative
+554,"Delivery was okay, pizza temperature acceptable.",3,neutral
+555,"Delivery was okay, pizza temperature acceptable.",3,neutral
+556,"Terrible experience, the pizza was burnt and soggy.",2,negative
+557,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+558,"Crust was hard and burnt, poor quality.",1,negative
+559,The best pizza I've had in a long time.,5,positive
+560,"Completely unsatisfied, won't recommend.",2,negative
+561,"Pizza was fine, but not memorable.",3,neutral
+562,"The pizza was average, nothing special.",3,neutral
+563,"Not bad, but I've had better pizzas.",3,neutral
+564,"Amazing flavor, highly recommend!",5,positive
+565,"Great taste, excellent service.",5,positive
+566,"I will never order from here again, very disappointing.",2,negative
+567,"Amazing flavor, highly recommend!",4,positive
+568,The pepperoni pizza had too much grease.,3,neutral
+569,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+570,"Mediocre pizza, toppings were not fresh.",1,negative
+571,"The dough was undercooked, but overall okay.",3,neutral
+572,"The toppings were decent, but crust was average.",3,neutral
+573,The pepperoni pizza had too much grease.,3,neutral
+574,"The toppings were decent, but crust was average.",3,neutral
+575,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+576,"Great flavor, but a bit pricey for the portion size.",3,neutral
+577,"Service was rude, pizza arrived late.",2,negative
+578,"Not happy with the delivery, pizza arrived cold.",2,negative
+579,Perfectly cooked pizza with fresh ingredients.,5,positive
+580,The pizza was tasteless and bland.,1,negative
+581,"Pizza was fine, but not memorable.",3,neutral
+582,"I loved the cheese and toppings, will order again.",4,positive
+583,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+584,The pepperoni pizza had too much grease.,3,neutral
+585,"Crust was hard and burnt, poor quality.",1,negative
+586,"Not bad, but I've had better pizzas.",3,neutral
+587,"The dough was undercooked, but overall okay.",3,neutral
+588,Worst pizza experience ever.,1,negative
+589,"Great flavor, but a bit pricey for the portion size.",3,neutral
+590,"Delivery was okay, pizza temperature acceptable.",3,neutral
+591,"Not happy with the delivery, pizza arrived cold.",1,negative
+592,Worst pizza experience ever.,1,negative
+593,"Terrible experience, the pizza was burnt and soggy.",2,negative
+594,"Average experience, nothing stood out.",3,neutral
+595,"Pizza was fine, but not memorable.",3,neutral
+596,"I will never order from here again, very disappointing.",1,negative
+597,"Delivery was okay, pizza temperature acceptable.",3,neutral
+598,The pizza was tasteless and bland.,1,negative
+599,"Crust was hard and burnt, poor quality.",1,negative
+600,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+601,The best pizza I've had in a long time.,5,positive
+602,"Average experience, nothing stood out.",3,neutral
+603,"Crust was hard and burnt, poor quality.",2,negative
+604,"Amazing flavor, highly recommend!",4,positive
+605,"Great taste, excellent service.",5,positive
+606,The best pizza I've had in a long time.,5,positive
+607,The pizza was tasteless and bland.,1,negative
+608,"Delivery was okay, pizza temperature acceptable.",3,neutral
+609,"Not happy with the delivery, pizza arrived cold.",1,negative
+610,The best pizza I've had in a long time.,5,positive
+611,"Completely unsatisfied, won't recommend.",2,negative
+612,The toppings were missing on my pizza.,1,negative
+613,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+614,Perfectly cooked pizza with fresh ingredients.,4,positive
+615,"The toppings were decent, but crust was average.",3,neutral
+616,Perfectly cooked pizza with fresh ingredients.,5,positive
+617,"Service was rude, pizza arrived late.",2,negative
+618,The toppings were missing on my pizza.,2,negative
+619,"The toppings were decent, but crust was average.",3,neutral
+620,"Mediocre pizza, toppings were not fresh.",2,negative
+621,"Delivery was okay, pizza temperature acceptable.",3,neutral
+622,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+623,"The dough was undercooked, but overall okay.",3,neutral
+624,"Completely unsatisfied, won't recommend.",2,negative
+625,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+626,"Great taste, excellent service.",5,positive
+627,"Not happy with the delivery, pizza arrived cold.",1,negative
+628,The toppings were missing on my pizza.,1,negative
+629,"Great flavor, but a bit pricey for the portion size.",3,neutral
+630,"Terrible experience, the pizza was burnt and soggy.",2,negative
+631,"Delivery was okay, pizza temperature acceptable.",3,neutral
+632,"Not happy with the delivery, pizza arrived cold.",2,negative
+633,"Mediocre pizza, toppings were not fresh.",1,negative
+634,"Not bad, but I've had better pizzas.",3,neutral
+635,"Great flavor, but a bit pricey for the portion size.",3,neutral
+636,"Terrible experience, the pizza was burnt and soggy.",1,negative
+637,"Great flavor, but a bit pricey for the portion size.",3,neutral
+638,"Not bad, but I've had better pizzas.",3,neutral
+639,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+640,"Service was slow, but the pizza was okay.",3,neutral
+641,Worst pizza experience ever.,1,negative
+642,The best pizza I've had in a long time.,5,positive
+643,"Mediocre pizza, toppings were not fresh.",2,negative
+644,The pepperoni pizza had too much grease.,3,neutral
+645,"The pizza was average, nothing special.",3,neutral
+646,"I will never order from here again, very disappointing.",2,negative
+647,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+648,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+649,"Delivery was okay, pizza temperature acceptable.",3,neutral
+650,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+651,"Terrible experience, the pizza was burnt and soggy.",1,negative
+652,"The pizza was average, nothing special.",3,neutral
+653,"Great taste, excellent service.",5,positive
+654,"The pizza was average, nothing special.",3,neutral
+655,"Great flavor, but a bit pricey for the portion size.",3,neutral
+656,Perfectly cooked pizza with fresh ingredients.,4,positive
+657,The best pizza I've had in a long time.,5,positive
+658,"Not bad, but I've had better pizzas.",3,neutral
+659,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+660,The pepperoni pizza had too much grease.,3,neutral
+661,"Not bad, but I've had better pizzas.",3,neutral
+662,"Great taste, excellent service.",4,positive
+663,The pizza was tasteless and bland.,1,negative
+664,"The toppings were decent, but crust was average.",3,neutral
+665,"The dough was undercooked, but overall okay.",3,neutral
+666,"The pizza was average, nothing special.",3,neutral
+667,"Pizza was fine, but not memorable.",3,neutral
+668,The best pizza I've had in a long time.,4,positive
+669,"Great taste, excellent service.",4,positive
+670,"The pizza was average, nothing special.",3,neutral
+671,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+672,The best pizza I've had in a long time.,4,positive
+673,The best pizza I've had in a long time.,5,positive
+674,"Not bad, but I've had better pizzas.",3,neutral
+675,"Not bad, but I've had better pizzas.",3,neutral
+676,"Delivery was okay, pizza temperature acceptable.",3,neutral
+677,"The pizza was average, nothing special.",3,neutral
+678,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+679,"Amazing flavor, highly recommend!",5,positive
+680,"Amazing flavor, highly recommend!",5,positive
+681,"Crust was hard and burnt, poor quality.",1,negative
+682,"The toppings were decent, but crust was average.",3,neutral
+683,"Great flavor, but a bit pricey for the portion size.",3,neutral
+684,Perfectly cooked pizza with fresh ingredients.,5,positive
+685,"Terrible experience, the pizza was burnt and soggy.",1,negative
+686,"Amazing flavor, highly recommend!",5,positive
+687,"Terrible experience, the pizza was burnt and soggy.",1,negative
+688,"Service was rude, pizza arrived late.",1,negative
+689,The pizza was delicious and the crust was perfect!,4,positive
+690,The toppings were missing on my pizza.,1,negative
+691,"Terrible experience, the pizza was burnt and soggy.",1,negative
+692,"Amazing flavor, highly recommend!",5,positive
+693,"Completely unsatisfied, won't recommend.",1,negative
+694,"Crust was hard and burnt, poor quality.",1,negative
+695,"Amazing flavor, highly recommend!",4,positive
+696,"Service was rude, pizza arrived late.",1,negative
+697,"I will never order from here again, very disappointing.",2,negative
+698,"Great flavor, but a bit pricey for the portion size.",3,neutral
+699,"Mediocre pizza, toppings were not fresh.",1,negative
+700,"Delivery was fast, pizza was hot and tasty.",5,positive
+701,The best pizza I've had in a long time.,4,positive
+702,The best pizza I've had in a long time.,4,positive
+703,"Amazing flavor, highly recommend!",4,positive
+704,"Amazing flavor, highly recommend!",4,positive
+705,"Great flavor, but a bit pricey for the portion size.",3,neutral
+706,"Average experience, nothing stood out.",3,neutral
+707,The toppings were missing on my pizza.,1,negative
+708,"Completely unsatisfied, won't recommend.",1,negative
+709,"Delivery was okay, pizza temperature acceptable.",3,neutral
+710,"Average experience, nothing stood out.",3,neutral
+711,"Service was rude, pizza arrived late.",2,negative
+712,"The pizza was average, nothing special.",3,neutral
+713,The pizza was delicious and the crust was perfect!,4,positive
+714,"The toppings were decent, but crust was average.",3,neutral
+715,"Average experience, nothing stood out.",3,neutral
+716,"The toppings were decent, but crust was average.",3,neutral
+717,"Excellent thin crust pizza, best in town!",5,positive
+718,The best pizza I've had in a long time.,5,positive
+719,Perfectly cooked pizza with fresh ingredients.,4,positive
+720,"Amazing flavor, highly recommend!",4,positive
+721,"Not bad, but I've had better pizzas.",3,neutral
+722,"Mediocre pizza, toppings were not fresh.",2,negative
+723,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+724,Perfectly cooked pizza with fresh ingredients.,5,positive
+725,"Great flavor, but a bit pricey for the portion size.",3,neutral
+726,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+727,The pepperoni pizza had too much grease.,3,neutral
+728,"Service was slow, but the pizza was okay.",3,neutral
+729,The best pizza I've had in a long time.,4,positive
+730,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+731,"Not happy with the delivery, pizza arrived cold.",2,negative
+732,The pepperoni pizza had too much grease.,3,neutral
+733,"The toppings were decent, but crust was average.",3,neutral
+734,Worst pizza experience ever.,2,negative
+735,The toppings were missing on my pizza.,1,negative
+736,"Delivery was okay, pizza temperature acceptable.",3,neutral
+737,The best pizza I've had in a long time.,5,positive
+738,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+739,"Service was rude, pizza arrived late.",1,negative
+740,"Service was slow, but the pizza was okay.",3,neutral
+741,The best pizza I've had in a long time.,5,positive
+742,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+743,"Mediocre pizza, toppings were not fresh.",1,negative
+744,"Delivery was fast, pizza was hot and tasty.",4,positive
+745,"Terrible experience, the pizza was burnt and soggy.",2,negative
+746,"Mediocre pizza, toppings were not fresh.",2,negative
+747,"Terrible experience, the pizza was burnt and soggy.",2,negative
+748,"Not happy with the delivery, pizza arrived cold.",2,negative
+749,The pizza was delicious and the crust was perfect!,5,positive
+750,"Service was slow, but the pizza was okay.",3,neutral
+751,"Pizza was fine, but not memorable.",3,neutral
+752,"Crust was hard and burnt, poor quality.",2,negative
+753,"Service was slow, but the pizza was okay.",3,neutral
+754,"Crust was hard and burnt, poor quality.",2,negative
+755,"I loved the cheese and toppings, will order again.",4,positive
+756,"Great flavor, but a bit pricey for the portion size.",3,neutral
+757,"I loved the cheese and toppings, will order again.",4,positive
+758,"Terrible experience, the pizza was burnt and soggy.",2,negative
+759,The pepperoni pizza had too much grease.,3,neutral
+760,"Pizza was fine, but not memorable.",3,neutral
+761,Perfectly cooked pizza with fresh ingredients.,5,positive
+762,"Delivery was okay, pizza temperature acceptable.",3,neutral
+763,"Completely unsatisfied, won't recommend.",1,negative
+764,The toppings were missing on my pizza.,2,negative
+765,"Great taste, excellent service.",5,positive
+766,"Delivery was okay, pizza temperature acceptable.",3,neutral
+767,"I loved the cheese and toppings, will order again.",4,positive
+768,"Great taste, excellent service.",5,positive
+769,"Delivery was fast, pizza was hot and tasty.",4,positive
+770,"Great flavor, but a bit pricey for the portion size.",3,neutral
+771,"Terrible experience, the pizza was burnt and soggy.",2,negative
+772,"Excellent thin crust pizza, best in town!",4,positive
+773,The toppings were missing on my pizza.,2,negative
+774,"Not happy with the delivery, pizza arrived cold.",2,negative
+775,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+776,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+777,"Average experience, nothing stood out.",3,neutral
+778,"Completely unsatisfied, won't recommend.",2,negative
+779,Perfectly cooked pizza with fresh ingredients.,4,positive
+780,The best pizza I've had in a long time.,4,positive
+781,"Not happy with the delivery, pizza arrived cold.",1,negative
+782,"Average experience, nothing stood out.",3,neutral
+783,"Great taste, excellent service.",4,positive
+784,"Excellent thin crust pizza, best in town!",4,positive
+785,"The toppings were decent, but crust was average.",3,neutral
+786,The best pizza I've had in a long time.,5,positive
+787,"Delivery was okay, pizza temperature acceptable.",3,neutral
+788,The pizza was tasteless and bland.,2,negative
+789,"Delivery was okay, pizza temperature acceptable.",3,neutral
+790,"The pizza was average, nothing special.",3,neutral
+791,"I loved the cheese and toppings, will order again.",5,positive
+792,"Mediocre pizza, toppings were not fresh.",2,negative
+793,"Completely unsatisfied, won't recommend.",2,negative
+794,"Great taste, excellent service.",4,positive
+795,"Amazing flavor, highly recommend!",5,positive
+796,"Delivery was fast, pizza was hot and tasty.",5,positive
+797,"Amazing flavor, highly recommend!",4,positive
+798,"Service was rude, pizza arrived late.",1,negative
+799,"Pizza was fine, but not memorable.",3,neutral
+800,"The toppings were decent, but crust was average.",3,neutral
+801,"Great taste, excellent service.",4,positive
+802,"Terrible experience, the pizza was burnt and soggy.",1,negative
+803,"Mediocre pizza, toppings were not fresh.",1,negative
+804,"Service was slow, but the pizza was okay.",3,neutral
+805,"The pizza was average, nothing special.",3,neutral
+806,"The pizza was average, nothing special.",3,neutral
+807,"Great taste, excellent service.",5,positive
+808,"I will never order from here again, very disappointing.",2,negative
+809,"I will never order from here again, very disappointing.",2,negative
+810,"Delivery was okay, pizza temperature acceptable.",3,neutral
+811,"Service was slow, but the pizza was okay.",3,neutral
+812,"Excellent thin crust pizza, best in town!",4,positive
+813,"The dough was undercooked, but overall okay.",3,neutral
+814,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+815,"The pizza was average, nothing special.",3,neutral
+816,"Mediocre pizza, toppings were not fresh.",1,negative
+817,The pizza was tasteless and bland.,1,negative
+818,"I will never order from here again, very disappointing.",2,negative
+819,"Crust was hard and burnt, poor quality.",1,negative
+820,"Delivery was okay, pizza temperature acceptable.",3,neutral
+821,"Terrible experience, the pizza was burnt and soggy.",2,negative
+822,"I loved the cheese and toppings, will order again.",4,positive
+823,"Crust was hard and burnt, poor quality.",2,negative
+824,"Completely unsatisfied, won't recommend.",2,negative
+825,"Completely unsatisfied, won't recommend.",1,negative
+826,"Pizza was fine, but not memorable.",3,neutral
+827,"The pizza was average, nothing special.",3,neutral
+828,The pepperoni pizza had too much grease.,3,neutral
+829,"I loved the cheese and toppings, will order again.",5,positive
+830,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+831,"The toppings were decent, but crust was average.",3,neutral
+832,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+833,The pepperoni pizza had too much grease.,3,neutral
+834,The pizza was delicious and the crust was perfect!,4,positive
+835,"Completely unsatisfied, won't recommend.",2,negative
+836,Perfectly cooked pizza with fresh ingredients.,4,positive
+837,The pepperoni pizza had too much grease.,3,neutral
+838,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+839,Worst pizza experience ever.,1,negative
+840,"Excellent thin crust pizza, best in town!",4,positive
+841,"The pizza was average, nothing special.",3,neutral
+842,The toppings were missing on my pizza.,1,negative
+843,"Amazing flavor, highly recommend!",4,positive
+844,"Completely unsatisfied, won't recommend.",1,negative
+845,The toppings were missing on my pizza.,1,negative
+846,"Pizza was fine, but not memorable.",3,neutral
+847,"Great flavor, but a bit pricey for the portion size.",3,neutral
+848,"Completely unsatisfied, won't recommend.",1,negative
+849,The best pizza I've had in a long time.,4,positive
+850,"Excellent thin crust pizza, best in town!",5,positive
+851,"Service was slow, but the pizza was okay.",3,neutral
+852,"Completely unsatisfied, won't recommend.",2,negative
+853,"The dough was undercooked, but overall okay.",3,neutral
+854,"The toppings were decent, but crust was average.",3,neutral
+855,"Mediocre pizza, toppings were not fresh.",2,negative
+856,"Not bad, but I've had better pizzas.",3,neutral
+857,The pizza was delicious and the crust was perfect!,5,positive
+858,The pizza was tasteless and bland.,1,negative
+859,Worst pizza experience ever.,1,negative
+860,"The dough was undercooked, but overall okay.",3,neutral
+861,"Pizza was fine, but not memorable.",3,neutral
+862,"Not happy with the delivery, pizza arrived cold.",2,negative
+863,Worst pizza experience ever.,2,negative
+864,"The dough was undercooked, but overall okay.",3,neutral
+865,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+866,"Mediocre pizza, toppings were not fresh.",2,negative
+867,"Delivery was okay, pizza temperature acceptable.",3,neutral
+868,Perfectly cooked pizza with fresh ingredients.,4,positive
+869,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+870,"Terrible experience, the pizza was burnt and soggy.",1,negative
+871,"Not happy with the delivery, pizza arrived cold.",2,negative
+872,"Not bad, but I've had better pizzas.",3,neutral
+873,"Excellent thin crust pizza, best in town!",5,positive
+874,"Crust was hard and burnt, poor quality.",1,negative
+875,"Delivery was okay, pizza temperature acceptable.",3,neutral
+876,"Mediocre pizza, toppings were not fresh.",2,negative
+877,"Pizza was fine, but not memorable.",3,neutral
+878,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+879,"Mediocre pizza, toppings were not fresh.",1,negative
+880,"Amazing flavor, highly recommend!",5,positive
+881,"Crust was hard and burnt, poor quality.",2,negative
+882,"The toppings were decent, but crust was average.",3,neutral
+883,"Service was slow, but the pizza was okay.",3,neutral
+884,The toppings were missing on my pizza.,2,negative
+885,"Delivery was fast, pizza was hot and tasty.",5,positive
+886,"Delivery was okay, pizza temperature acceptable.",3,neutral
+887,"Great flavor, but a bit pricey for the portion size.",3,neutral
+888,"The Margherita pizza was amazing, very fresh ingredients.",5,positive
+889,"Completely unsatisfied, won't recommend.",2,negative
+890,"Delivery was okay, pizza temperature acceptable.",3,neutral
+891,"The toppings were decent, but crust was average.",3,neutral
+892,"Delivery was fast, pizza was hot and tasty.",5,positive
+893,"Pizza was fine, but not memorable.",3,neutral
+894,"Completely unsatisfied, won't recommend.",1,negative
+895,"Excellent thin crust pizza, best in town!",5,positive
+896,"The dough was undercooked, but overall okay.",3,neutral
+897,The pizza was delicious and the crust was perfect!,4,positive
+898,"Great taste, excellent service.",5,positive
+899,"Crust was hard and burnt, poor quality.",1,negative
+900,"I loved the cheese and toppings, will order again.",4,positive
+901,"Delivery was fast, pizza was hot and tasty.",5,positive
+902,The pizza was tasteless and bland.,2,negative
+903,"Terrible experience, the pizza was burnt and soggy.",1,negative
+904,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+905,The pepperoni pizza had too much grease.,3,neutral
+906,Worst pizza experience ever.,2,negative
+907,"Great flavor, but a bit pricey for the portion size.",3,neutral
+908,"Crust was hard and burnt, poor quality.",1,negative
+909,"Average experience, nothing stood out.",3,neutral
+910,"Amazing flavor, highly recommend!",5,positive
+911,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+912,"Great flavor, but a bit pricey for the portion size.",3,neutral
+913,"Service was rude, pizza arrived late.",2,negative
+914,"I will never order from here again, very disappointing.",1,negative
+915,"The toppings were decent, but crust was average.",3,neutral
+916,"Delivery was okay, pizza temperature acceptable.",3,neutral
+917,"Delivery was fast, pizza was hot and tasty.",4,positive
+918,"Average experience, nothing stood out.",3,neutral
+919,"Pizza was fine, but not memorable.",3,neutral
+920,"Excellent thin crust pizza, best in town!",4,positive
+921,"I loved the cheese and toppings, will order again.",4,positive
+922,"Terrible experience, the pizza was burnt and soggy.",1,negative
+923,"Terrible experience, the pizza was burnt and soggy.",2,negative
+924,"Delivery was okay, pizza temperature acceptable.",3,neutral
+925,"Crust was hard and burnt, poor quality.",2,negative
+926,"I loved the cheese and toppings, will order again.",5,positive
+927,"Average experience, nothing stood out.",3,neutral
+928,"Service was slow, but the pizza was okay.",3,neutral
+929,"Great flavor, but a bit pricey for the portion size.",3,neutral
+930,"Great taste, excellent service.",5,positive
+931,"Average experience, nothing stood out.",3,neutral
+932,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+933,Perfectly cooked pizza with fresh ingredients.,4,positive
+934,"I loved the cheese and toppings, will order again.",4,positive
+935,The pizza was delicious and the crust was perfect!,5,positive
+936,"Terrible experience, the pizza was burnt and soggy.",2,negative
+937,Perfectly cooked pizza with fresh ingredients.,4,positive
+938,"The toppings were decent, but crust was average.",3,neutral
+939,The pepperoni pizza had too much grease.,3,neutral
+940,"Friendly staff and quick delivery, pizza tasted great.",5,positive
+941,The toppings were missing on my pizza.,2,negative
+942,The pizza was tasteless and bland.,1,negative
+943,The pepperoni pizza had too much grease.,3,neutral
+944,"Great flavor, but a bit pricey for the portion size.",3,neutral
+945,"I loved the cheese and toppings, will order again.",4,positive
+946,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+947,"Crust was hard and burnt, poor quality.",2,negative
+948,The best pizza I've had in a long time.,4,positive
+949,"The pizza was average, nothing special.",3,neutral
+950,Worst pizza experience ever.,1,negative
+951,"Not bad, but I've had better pizzas.",3,neutral
+952,The best pizza I've had in a long time.,5,positive
+953,The best pizza I've had in a long time.,5,positive
+954,The toppings were missing on my pizza.,1,negative
+955,"The toppings were decent, but crust was average.",3,neutral
+956,"Friendly staff and quick delivery, pizza tasted great.",4,positive
+957,"Delivery was okay, pizza temperature acceptable.",3,neutral
+958,The pizza was delicious and the crust was perfect!,5,positive
+959,The pepperoni pizza had too much grease.,3,neutral
+960,The best pizza I've had in a long time.,4,positive
+961,"Not happy with the delivery, pizza arrived cold.",2,negative
+962,"Great taste, excellent service.",4,positive
+963,"Not happy with the delivery, pizza arrived cold.",2,negative
+964,"Not happy with the delivery, pizza arrived cold.",1,negative
+965,The pizza was tasteless and bland.,2,negative
+966,The pizza was tasteless and bland.,1,negative
+967,"The pizza was average, nothing special.",3,neutral
+968,"Excellent thin crust pizza, best in town!",4,positive
+969,"Crust was hard and burnt, poor quality.",2,negative
+970,"Terrible experience, the pizza was burnt and soggy.",2,negative
+971,The pizza was tasteless and bland.,2,negative
+972,"Great flavor, but a bit pricey for the portion size.",3,neutral
+973,"The pizza was average, nothing special.",3,neutral
+974,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+975,The best pizza I've had in a long time.,5,positive
+976,"Not bad, but I've had better pizzas.",3,neutral
+977,"Excellent thin crust pizza, best in town!",5,positive
+978,"Crust was hard and burnt, poor quality.",1,negative
+979,The pepperoni pizza had too much grease.,3,neutral
+980,The pizza was tasteless and bland.,1,negative
+981,"I will never order from here again, very disappointing.",2,negative
+982,Perfectly cooked pizza with fresh ingredients.,5,positive
+983,The pizza was tasteless and bland.,2,negative
+984,"Excellent thin crust pizza, best in town!",5,positive
+985,"Great taste, excellent service.",5,positive
+986,"Great taste, excellent service.",5,positive
+987,Perfectly cooked pizza with fresh ingredients.,5,positive
+988,Perfectly cooked pizza with fresh ingredients.,4,positive
+989,The pizza was delicious and the crust was perfect!,4,positive
+990,"Not bad, but I've had better pizzas.",3,neutral
+991,"Delivery was okay, pizza temperature acceptable.",3,neutral
+992,"Service was slow, but the pizza was okay.",3,neutral
+993,"Delivery was fast, pizza was hot and tasty.",5,positive
+994,"Service was rude, pizza arrived late.",1,negative
+995,"The Margherita pizza was amazing, very fresh ingredients.",4,positive
+996,"Pizza was fine, but not memorable.",3,neutral
+997,"Excellent thin crust pizza, best in town!",5,positive
+998,"Service was slow, but the pizza was okay.",3,neutral
+999,Perfectly cooked pizza with fresh ingredients.,4,positive
+1000,The pizza was delicious and the crust was perfect!,5,positive
